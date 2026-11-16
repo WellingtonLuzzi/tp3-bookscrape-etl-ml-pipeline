@@ -61,5 +61,34 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 ├── requirements.txt
 └── README.md
 ```
+## Como executar localmente
+
+### 1. Instalar as dependências
+
+```bash
+pip install -r requirements.txt
+```
+### 2. Executar o notebook
+
+Abra o arquivo `.ipynb` no **Jupyter Notebook**, **VS Code** ou **Google Colab** e execute as células em ordem para reproduzir a coleta, o tratamento dos dados, os gráficos e os arquivos `.json`, `.csv` e `api.py`.
+
+### 3. Subir a API FastAPI
+
+Com o arquivo `dados_modelo_pronto.csv` gerado no mesmo diretório, inicie o servidor:
+
+```bash
+uvicorn api:app --reload
+```
+* Exemplo de consulta filtrada: `http://127.0.0.1:8000/dados?categoria=Thriller&faixa_preco=Caro&limite=10`
+
+---
+
+## Tecnologias utilizadas
+
+* **Linguagem:** Python 3
+* **Coleta web:** `requests`, `beautifulsoup4`
+* **Manipulação e ML:** `pandas`, `numpy`, `scikit-learn`
+* **Visualização:** `matplotlib`, `seaborn`, `Jinja2`
+* **API REST:** `fastapi`, `uvicorn`, `httpx`
 
 ---
