@@ -60,7 +60,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 ```text
 ├── tp3_bookscrape_etl_ml_pipeline.ipynb
 ├── api.py
-├── boxsplot.png
+├── boxplot.png
 ├── dados_brutos_web.json
 ├── dados_modelo_pronto.csv
 ├── histogramas.png
