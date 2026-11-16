@@ -1,0 +1,45 @@
+id_registro,categoria,titulo_limpo,preco_gbp,preco_brl,avaliacao_num,em_estoque,preco_zscore,preco_minmax,avaliacao_zscore,avaliacao_minmax,faixa_preco,nivel_popularidade
+1,Horror,Security,39.25,280.64,2.0,1,0.3514,0.5837,-0.3881,0.25,Médio,Baixa
+2,Horror,Follow You Home,21.36,152.72,1.0,1,-0.9233,0.2197,-1.0996,0.0,Barato,Baixa
+3,Horror,The Loney,35.63,254.75,1.0,1,0.0935,0.5101,-1.0996,0.0,Médio,Baixa
+4,Horror,Pet Sematary,10.56,75.5,3.0,1,-1.6928,0.0,0.3234,0.5,Barato,Moderada
+5,Horror,Doctor Sleep (The Shining #2),40.12,286.86,2.0,1,0.4134,0.6014,-0.3881,0.25,Caro,Baixa
+6,Horror,Psycho: Sanitarium (Psycho #1.5),36.97,264.34,5.0,1,0.189,0.5373,1.7465,1.0,Médio,Alta
+7,Horror,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,347.78,1.0,1,1.0205,0.7748,-1.0996,0.0,Caro,Baixa
+8,Horror,Red Dragon (Hannibal Lecter #1),23.37,167.1,3.0,1,-0.7801,0.2606,0.3234,0.5,Barato,Moderada
+9,Horror,Dracula the Un-Dead,35.63,254.75,5.0,1,0.0935,0.5101,1.7465,1.0,Médio,Alta
+10,Horror,Night Shift (Night Shift #1-20),12.75,91.16,4.0,1,-1.5368,0.0446,1.035,0.75,Barato,Alta
+11,Horror,Needful Things,47.51,339.7,4.0,1,0.94,0.7518,1.035,0.75,Caro,Alta
+12,Horror,Misery,34.79,248.75,2.0,1,0.0337,0.493,-0.3881,0.25,Médio,Baixa
+13,Horror,It,25.01,178.82,3.0,1,-0.6632,0.294,0.3234,0.5,Barato,Moderada
+14,Horror,'Salem's Lot,49.56,354.35,4.0,1,1.0861,0.7935,1.035,0.75,Caro,Alta
+15,Horror,The Stand,57.86,413.7,2.0,1,1.6775,0.9624,-0.3881,0.25,Caro,Baixa
+16,Horror,The Girl with All the Gifts,49.47,353.71,3.0,1,1.0797,0.7917,0.3234,0.5,Caro,Moderada
+17,Horror,House of Leaves,54.89,392.46,1.0,1,1.4659,0.9019,-1.0996,0.0,Caro,Baixa
+18,Science Fiction,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,268.77,1.0,1,0.2332,0.5499,-1.0996,0.0,Médio,Baixa
+19,Science Fiction,Join,35.67,255.04,5.0,1,0.0964,0.5109,1.7465,1.0,Médio,Alta
+20,Science Fiction,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,309.59,4.0,1,0.64,0.6661,1.035,0.75,Caro,Alta
+21,Science Fiction,The Project,10.65,76.15,1.0,1,-1.6864,0.0018,-1.0996,0.0,Barato,Baixa
+22,Science Fiction,Soft Apocalypse,26.12,186.76,2.0,1,-0.5841,0.3166,-0.3881,0.25,Barato,Baixa
+23,Science Fiction,Sleeping Giants (Themis Files #1),48.74,348.49,1.0,1,1.0277,0.7768,-1.0996,0.0,Caro,Baixa
+24,Science Fiction,Arena,21.36,152.72,4.0,1,-0.9233,0.2197,1.035,0.75,Barato,Alta
+25,Science Fiction,Foundation (Foundation (Publication Order) #1),32.42,231.8,1.0,1,-0.1352,0.4448,-1.0996,0.0,Médio,Baixa
+26,Science Fiction,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,78.08,1.0,1,-1.6672,0.0073,-1.0996,0.0,Barato,Baixa
+27,Science Fiction,Ready Player One,19.07,136.35,4.0,1,-1.0865,0.1731,1.035,0.75,Barato,Alta
+28,Science Fiction,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,237.81,2.0,1,-0.0754,0.4619,-0.3881,0.25,Médio,Baixa
+29,Science Fiction,Dune (Dune #1),54.86,392.25,1.0,1,1.4637,0.9013,-1.0996,0.0,Caro,Baixa
+30,Science Fiction,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,368.08,1.0,1,1.2229,0.8326,-1.0996,0.0,Caro,Baixa
+31,Science Fiction,Three Wishes (River of Time: California #1),44.18,315.89,2.0,1,0.7027,0.684,-0.3881,0.25,Caro,Baixa
+32,Science Fiction,The Last Girl (The Dominion Trilogy #1),36.26,259.26,2.0,1,0.1384,0.5229,-0.3881,0.25,Médio,Baixa
+33,Science Fiction,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,249.96,4.0,1,0.0458,0.4964,1.035,0.75,Médio,Alta
+34,Thriller,In Her Wake,12.84,91.81,1.0,1,-1.5304,0.0464,-1.0996,0.0,Barato,Baixa
+35,Thriller,The Elephant Tree,23.82,170.31,5.0,1,-0.748,0.2698,1.7465,1.0,Barato,Alta
+36,Thriller,Behind Closed Doors,52.22,373.37,4.0,1,1.2756,0.8476,1.035,0.75,Caro,Alta
+37,Thriller,You (You #1),43.61,311.81,5.0,1,0.6621,0.6724,1.7465,1.0,Caro,Alta
+38,Thriller,The Guilty (Will Robie #4),13.82,98.81,2.0,1,-1.4606,0.0663,-0.3881,0.25,Barato,Baixa
+39,Thriller,The 14th Colony (Cotton Malone #11),39.24,280.57,1.0,1,0.3507,0.5835,-1.0996,0.0,Médio,Baixa
+40,Thriller,Give It Back,18.32,130.99,2.0,1,-1.1399,0.1579,-0.3881,0.25,Barato,Baixa
+41,Thriller,Killing Floor (Jack Reacher #1),31.49,225.15,4.0,1,-0.2015,0.4258,1.035,0.75,Médio,Alta
+42,Thriller,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,426.93,3.0,1,1.8093,1.0,0.3234,0.5,Caro,Moderada
+43,Thriller,Far From True (Promise Falls Trilogy #2),34.93,249.75,2.0,1,0.0436,0.4958,-0.3881,0.25,Médio,Baixa
+44,Thriller,The Travelers,15.77,112.76,1.0,1,-1.3216,0.106,-1.0996,0.0,Barato,Baixa

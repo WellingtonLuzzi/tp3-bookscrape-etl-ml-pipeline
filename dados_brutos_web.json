@@ -1,0 +1,398 @@
+[
+  {
+    "id_registro": 1,
+    "categoria": "Horror",
+    "titulo_bruto": "Security",
+    "preco_bruto": "Â£39.25",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/security_925/index.html"
+  },
+  {
+    "id_registro": 2,
+    "categoria": "Horror",
+    "titulo_bruto": "Follow You Home",
+    "preco_bruto": "Â£21.36",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/follow-you-home_809/index.html"
+  },
+  {
+    "id_registro": 3,
+    "categoria": "Horror",
+    "titulo_bruto": "The Loney",
+    "preco_bruto": "Â£23.40",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-loney_756/index.html"
+  },
+  {
+    "id_registro": 4,
+    "categoria": "Horror",
+    "titulo_bruto": "Pet Sematary",
+    "preco_bruto": "Â£10.56",
+    "avaliacao_bruta": "Three",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/pet-sematary_726/index.html"
+  },
+  {
+    "id_registro": 5,
+    "categoria": "Horror",
+    "titulo_bruto": "Doctor Sleep (The Shining #2)",
+    "preco_bruto": "Â£40.12",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/doctor-sleep-the-shining-2_686/index.html"
+  },
+  {
+    "id_registro": 6,
+    "categoria": "Horror",
+    "titulo_bruto": "Psycho: Sanitarium (Psycho #1.5)",
+    "preco_bruto": "Â£36.97",
+    "avaliacao_bruta": "Five",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/psycho-sanitarium-psycho-15_628/index.html"
+  },
+  {
+    "id_registro": 7,
+    "categoria": "Horror",
+    "titulo_bruto": "Can You Keep a Secret? (Fear Street Relaunch #4)",
+    "preco_bruto": "Â£48.64",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/can-you-keep-a-secret-fear-street-relaunch-4_614/index.html"
+  },
+  {
+    "id_registro": 8,
+    "categoria": "Horror",
+    "titulo_bruto": "Red Dragon (Hannibal Lecter #1)",
+    "preco_bruto": "Â£23.37",
+    "avaliacao_bruta": "Three",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/red-dragon-hannibal-lecter-1_390/index.html"
+  },
+  {
+    "id_registro": 9,
+    "categoria": "Horror",
+    "titulo_bruto": "Dracula the Un-Dead",
+    "preco_bruto": "Â£35.63",
+    "avaliacao_bruta": "Five",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/dracula-the-un-dead_370/index.html"
+  },
+  {
+    "id_registro": 10,
+    "categoria": "Horror",
+    "titulo_bruto": "Night Shift (Night Shift #1-20)",
+    "preco_bruto": "Â£12.75",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/night-shift-night-shift-1-20_335/index.html"
+  },
+  {
+    "id_registro": 11,
+    "categoria": "Horror",
+    "titulo_bruto": "Needful Things",
+    "preco_bruto": "Â£47.51",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/needful-things_334/index.html"
+  },
+  {
+    "id_registro": 12,
+    "categoria": "Horror",
+    "titulo_bruto": "Misery",
+    "preco_bruto": "Â£34.79",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/misery_332/index.html"
+  },
+  {
+    "id_registro": 13,
+    "categoria": "Horror",
+    "titulo_bruto": "It",
+    "preco_bruto": "Â£25.01",
+    "avaliacao_bruta": "Three",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/it_330/index.html"
+  },
+  {
+    "id_registro": 14,
+    "categoria": "Horror",
+    "titulo_bruto": "'Salem's Lot",
+    "preco_bruto": "Â£49.56",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/salems-lot_309/index.html"
+  },
+  {
+    "id_registro": 15,
+    "categoria": "Horror",
+    "titulo_bruto": "The Stand",
+    "preco_bruto": "Â£57.86",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-stand_282/index.html"
+  },
+  {
+    "id_registro": 16,
+    "categoria": "Horror",
+    "titulo_bruto": "The Girl with All the Gifts",
+    "preco_bruto": "Â£49.47",
+    "avaliacao_bruta": "Three",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-girl-with-all-the-gifts_250/index.html"
+  },
+  {
+    "id_registro": 17,
+    "categoria": "Horror",
+    "titulo_bruto": "House of Leaves",
+    "preco_bruto": "Â£54.89",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/house-of-leaves_169/index.html"
+  },
+  {
+    "id_registro": 18,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Mesaerion: The Best Science Fiction Stories 1800-1849",
+    "preco_bruto": "Â£37.59",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html"
+  },
+  {
+    "id_registro": 19,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Join",
+    "preco_bruto": "Â£35.67",
+    "avaliacao_bruta": "Five",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/join_902/index.html"
+  },
+  {
+    "id_registro": 20,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",
+    "preco_bruto": "Â£43.30",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/william-shakespeares-star-wars-verily-a-new-hope-william-shakespeares-star-wars-4_871/index.html"
+  },
+  {
+    "id_registro": 21,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "The Project",
+    "preco_bruto": "Â£10.65",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-project_856/index.html"
+  },
+  {
+    "id_registro": 22,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Soft Apocalypse",
+    "preco_bruto": "Â£26.12",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/soft-apocalypse_833/index.html"
+  },
+  {
+    "id_registro": 23,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Sleeping Giants (Themis Files #1)",
+    "preco_bruto": "Â£48.74",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/sleeping-giants-themis-files-1_604/index.html"
+  },
+  {
+    "id_registro": 24,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Arena",
+    "preco_bruto": "Â£21.36",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/arena_587/index.html"
+  },
+  {
+    "id_registro": 25,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Foundation (Foundation (Publication Order) #1)",
+    "preco_bruto": "Â£32.42",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/foundation-foundation-publication-order-1_375/index.html"
+  },
+  {
+    "id_registro": 26,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2)",
+    "preco_bruto": "Â£10.92",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-restaurant-at-the-end-of-the-universe-hitchhikers-guide-to-the-galaxy-2_275/index.html"
+  },
+  {
+    "id_registro": 27,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Ready Player One",
+    "preco_bruto": "Â£19.07",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/ready-player-one_209/index.html"
+  },
+  {
+    "id_registro": 28,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",
+    "preco_bruto": "Â£33.26",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/life-the-universe-and-everything-hitchhikers-guide-to-the-galaxy-3_189/index.html"
+  },
+  {
+    "id_registro": 29,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Dune (Dune #1)",
+    "preco_bruto": "Â£54.86",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/dune-dune-1_151/index.html"
+  },
+  {
+    "id_registro": 30,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Do Androids Dream of Electric Sheep? (Blade Runner #1)",
+    "preco_bruto": "Â£51.48",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/do-androids-dream-of-electric-sheep-blade-runner-1_149/index.html"
+  },
+  {
+    "id_registro": 31,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Three Wishes (River of Time: California #1)",
+    "preco_bruto": "Â£44.18",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/three-wishes-river-of-time-california-1_89/index.html"
+  },
+  {
+    "id_registro": 32,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "The Last Girl (The Dominion Trilogy #1)",
+    "preco_bruto": "Â£36.26",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-last-girl-the-dominion-trilogy-1_70/index.html"
+  },
+  {
+    "id_registro": 33,
+    "categoria": "Science Fiction",
+    "titulo_bruto": "Having the Barbarian's Baby (Ice Planet Barbarians #7.5)",
+    "preco_bruto": "Â£34.96",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/having-the-barbarians-baby-ice-planet-barbarians-75_23/index.html"
+  },
+  {
+    "id_registro": 34,
+    "categoria": "Thriller",
+    "titulo_bruto": "In Her Wake",
+    "preco_bruto": "Â£12.84",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/in-her-wake_980/index.html"
+  },
+  {
+    "id_registro": 35,
+    "categoria": "Thriller",
+    "titulo_bruto": "The Elephant Tree",
+    "preco_bruto": "Â£23.82",
+    "avaliacao_bruta": "Five",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-elephant-tree_968/index.html"
+  },
+  {
+    "id_registro": 36,
+    "categoria": "Thriller",
+    "titulo_bruto": "Behind Closed Doors",
+    "preco_bruto": "Â£52.22",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/behind-closed-doors_962/index.html"
+  },
+  {
+    "id_registro": 37,
+    "categoria": "Thriller",
+    "titulo_bruto": "You (You #1)",
+    "preco_bruto": "Â£43.61",
+    "avaliacao_bruta": "Five",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/you-you-1_784/index.html"
+  },
+  {
+    "id_registro": 38,
+    "categoria": "Thriller",
+    "titulo_bruto": "The Guilty (Will Robie #4)",
+    "preco_bruto": "Â£13.82",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-guilty-will-robie-4_750/index.html"
+  },
+  {
+    "id_registro": 39,
+    "categoria": "Thriller",
+    "titulo_bruto": "The 14th Colony (Cotton Malone #11)",
+    "preco_bruto": "Â£39.24",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-14th-colony-cotton-malone-11_744/index.html"
+  },
+  {
+    "id_registro": 40,
+    "categoria": "Thriller",
+    "titulo_bruto": "Give It Back",
+    "preco_bruto": "Â£18.32",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/give-it-back_430/index.html"
+  },
+  {
+    "id_registro": 41,
+    "categoria": "Thriller",
+    "titulo_bruto": "Killing Floor (Jack Reacher #1)",
+    "preco_bruto": "Â£31.49",
+    "avaliacao_bruta": "Four",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/killing-floor-jack-reacher-1_382/index.html"
+  },
+  {
+    "id_registro": 42,
+    "categoria": "Thriller",
+    "titulo_bruto": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
+    "preco_bruto": "Â£59.71",
+    "avaliacao_bruta": "Three",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html"
+  },
+  {
+    "id_registro": 43,
+    "categoria": "Thriller",
+    "titulo_bruto": "Far From True (Promise Falls Trilogy #2)",
+    "preco_bruto": "Â£34.93",
+    "avaliacao_bruta": "Two",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/far-from-true-promise-falls-trilogy-2_320/index.html"
+  },
+  {
+    "id_registro": 44,
+    "categoria": "Thriller",
+    "titulo_bruto": "The Travelers",
+    "preco_bruto": "Â£15.77",
+    "avaliacao_bruta": "One",
+    "disponibilidade_bruta": "\n\n    \n        In stock\n    \n",
+    "url_produto": "https://books.toscrape.com/catalogue/the-travelers_285/index.html"
+  }
+]
