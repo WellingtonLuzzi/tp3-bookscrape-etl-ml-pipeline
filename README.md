@@ -1,4 +1,4 @@
-# tp3-bookscrape-etl-ml-pipeline
+# TP3 — BookScrape ETL & ML Pipeline
 ## Projeto acadêmico de Ciência de Dados.
 O projeto realiza a coleta automatizada de dados do catálogo [Books to Scrape](https://books.toscrape.com/), aplica higienização e *feature engineering* para deixar os dados prontos para modelos de ML, disponibiliza os registros tratados por meio de uma **API REST com FastAPI** e apresenta análises exploratórias visuais.
 
@@ -11,7 +11,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 | Categoria | Quantidade | URL de origem |
 | :--- | :---: | :--- |
 | **Horror** | 17 | [Horror — Books to Scrape](https://books.toscrape.com/catalogue/category/books/horror_31/index.html) |
-| **Science fiction** | 16 | [Science Fiction — Books to Scrape](https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html) |
+| **Science Fiction** | 16 | [Science Fiction — Books to Scrape](https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html) |
 | **Thriller** | 11 | [Thriller — Books to Scrape](https://books.toscrape.com/catalogue/category/books/thriller_37/index.html) |
 | **Total** | **44** | — |
 
@@ -27,9 +27,9 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
      
 **Fase 2 — Higienização e preparação para ML (`Model-Ready`)**
    * **Limpeza e parsing:** remoção de ruídos de codificação (`Â£`) via *regex*, conversão de Libra (£) para Real (R$ — taxa `7.15`), mapeamento ordinal de avaliações (`1` a `5`) e criação da flag binária `em_estoque`.
-   * **Tratamento de *Missing Data*:** simulação controlada de 2 valores nulos (`preco_gbp` e `avaliacao_num`) seguida de imputação por **mediana** (variável contínua) e **moda** (variável ordinal).
-   * **Escalonamento (*Feature Scaling*):** padronização Z-Score (`StandardScaler`) e normalização no intervalo `[0, 1]` (`MinMaxScaler`).
-   * **Discretização (*Binning*):** faixas quantílicas de preço via `pd.qcut` (`Barato`, `Médio`, `Caro`) e níveis de popularidade via `pd.cut` (`Baixa`, `Moderada`, `Alta`).
+   * **Tratamento de *missing data*:** simulação controlada de 2 valores nulos (`preco_gbp` e `avaliacao_num`) seguida de imputação por **mediana** (variável contínua) e **moda** (variável ordinal).
+   * **Escalonamento (*feature scaling*):** padronização Z-Score (`StandardScaler`) e normalização no intervalo `[0, 1]` (`MinMaxScaler`).
+   * **Discretização (*binning*):** faixas quantílicas de preço via `pd.qcut` (`Barato`, `Médio`, `Caro`) e níveis de popularidade via `pd.cut` (`Baixa`, `Moderada`, `Alta`).
    
 **Fase 3 — Exportação e API REST (`dados_modelo_pronto.csv` + `api.py`)**
    * Exportação do dataset final com **44 linhas × 13 colunas**.
@@ -45,7 +45,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 
   * **Boxplot + tabela estilizada por categoria:** *Horror* apresentou a maior mediana (**R$ 264,34**) e o menor preço (**R$ 75,50**); *Science Fiction* teve mediana de **R$ 252,50** com menor dispersão; *Thriller* registrou a menor mediana (**R$ 225,15**) e a maior amplitude (até **R$ 426,93**), sem *outliers* nas três categorias.
 <p align="center">
-  <img src="boxsplot.png" alt="boxsplot" width="700">
+  <img src="boxplot.png" alt="boxplot" width="700">
 </p>
   
    * **Discretização cruzada:** distribuição balanceada nos tercis de preço (**Barato**: 15, **Médio**: 14, **Caro**: 15) frente aos níveis de popularidade.
