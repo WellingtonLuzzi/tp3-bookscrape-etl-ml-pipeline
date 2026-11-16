@@ -39,12 +39,20 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
    * **Histogramas comparativos:** preservação da distribuição original após `StandardScaler` e `MinMaxScaler`.
    ![histogramas](histogramas.png)  
    * **Matriz de correlação de Pearson:** comprovação de correlação `1.00` entre escalas de preço e ausência de correlação linear entre preço e avaliação.
-  ![matriz_correlacao](matriz_correlacao.png)  
-   * **Boxplot + tabela estilizada por categoria:** *Horror* apresentou a maior mediana (**R$ 264,34**) e o menor preço (**R$ 75,50**); *Science Fiction* teve mediana de **R$ 252,50** com menor dispersão; *Thriller* registrou a menor mediana (**R$ 225,15**) e a maior amplitude (até **R$ 426,93**), sem *outliers* nas três categorias.
-  ![boxsplot](boxsplot.png) 
-   * **Discretização cruzada:** distribuição balanceada nos tercis de preço (**Barato**: 15, **Médio**: 14, **Caro**: 15) frente aos níveis de popularidade.
-  ![preco_x_popularidade](preco_x_popularidade.png)
+<p align="center">
+  <img src="matriz_correlacao.png" alt="matriz_correlacao" width="700">
+</p>
 
+  * **Boxplot + tabela estilizada por categoria:** *Horror* apresentou a maior mediana (**R$ 264,34**) e o menor preço (**R$ 75,50**); *Science Fiction* teve mediana de **R$ 252,50** com menor dispersão; *Thriller* registrou a menor mediana (**R$ 225,15**) e a maior amplitude (até **R$ 426,93**), sem *outliers* nas três categorias.
+<p align="center">
+  <img src="boxsplot.png" alt="boxsplot" width="700">
+</p>
+  
+   * **Discretização cruzada:** distribuição balanceada nos tercis de preço (**Barato**: 15, **Médio**: 14, **Caro**: 15) frente aos níveis de popularidade.
+<p align="center">
+  <img src="preco_x_popularidade.png" alt="preco_x_popularidade" width="700">
+</p>
+ 
 ---
 
 ## Estrutura do repositório
