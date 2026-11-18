@@ -47,6 +47,10 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 <p align="center">
   <img src="boxplot.png" alt="boxplot" width="700">
 </p>
+
+<p align="center">
+  <img src="tabela.png" alt="boxplot" width="700">
+</p>
   
    * **Discretização cruzada:** distribuição balanceada nos tercis de preço (**Barato**: 15, **Médio**: 14, **Caro**: 15) frente aos níveis de popularidade.
 <p align="center">
