@@ -71,6 +71,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 ├── matriz_correlacao.png
 ├── preco_x_popularidade.png
 ├── requirements.txt
+├── tabela.png
 └── README.md
 ```
 ## Como executar localmente
