@@ -62,7 +62,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 ## Estrutura do repositório
 
 ```text
-├── tp3_bookscrape_etl_ml_pipeline.ipynb
+├── README.md
 ├── api.py
 ├── boxplot.png
 ├── dados_brutos_web.json
@@ -72,7 +72,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
 ├── preco_x_popularidade.png
 ├── requirements.txt
 ├── tabela.png
-└── README.md
+└── tp3_bookscrape_etl_ml_pipeline.ipynb
 ```
 ## Como executar localmente
 
