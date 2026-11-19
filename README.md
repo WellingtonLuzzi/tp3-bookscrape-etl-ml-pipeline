@@ -1,6 +1,6 @@
 # TP3 — BookScrape ETL & ML Pipeline
 ## Projeto acadêmico de Ciência de Dados.
-O projeto realiza a coleta automatizada de dados do catálogo [Books to Scrape](https://books.toscrape.com/), aplica higienização e *feature engineering* para deixar os dados prontos para modelos de ML, disponibiliza os registros tratados por meio de uma **API REST com FastAPI** e apresenta análises exploratórias visuais.
+O projeto realiza a coleta automatizada de dados do catálogo [Books to Scrape](https://books.toscrape.com/), aplica higienização e *feature engineering* para deixar os dados prontos para modelos de ML, disponibiliza os registros tratados por meio de uma API REST com FastAPI e apresenta análises exploratórias visuais.
 
 ---
 
@@ -33,7 +33,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
    
 **Fase 3 — Exportação e API REST (`dados_modelo_pronto.csv` + `api.py`)**
    * Exportação do dataset final com **44 linhas × 13 colunas**.
-   * Criação da **Books Analytics & ML-Ready API** em **FastAPI** com endpoints `GET /` e `GET /dados` (suporte a filtros por `categoria`, `faixa_preco` e `limite`), validada com `TestClient` (HTTP `200`).
+   * Criação da **Books Analytics & ML-Ready API** em FastAPI com endpoints `GET /` e `GET /dados` (suporte a filtros por `categoria`, `faixa_preco` e `limite`), validada com `TestClient` (HTTP `200`).
      
 **Fase 4 — Análise exploratória visual**
    * **Histogramas comparativos:** preservação da distribuição original após `StandardScaler` e `MinMaxScaler`.
@@ -43,7 +43,7 @@ Foram extraídos **44 livros** distribuídos em três categorias literárias, re
   <img src="matriz_correlacao.png" alt="matriz_correlacao" width="700">
 </p>
 
-  * **Boxplot + tabela estilizada por categoria:** *Horror* apresentou a maior mediana (**R$ 264,34**) e o menor preço (**R$ 75,50**); *Science Fiction* teve mediana de **R$ 252,50** com menor dispersão; *Thriller* registrou a menor mediana (**R$ 225,15**) e a maior amplitude (até **R$ 426,93**), sem *outliers* nas três categorias.
+  * **Boxplot + tabela estilizada por categoria:** *Horror* apresentou a maior mediana (**R$ 264,34**) e o menor preço (**R$ 75,50**); *Science Fiction* teve mediana de **R$ 252,50** com menor variabilidade nos 50% centrais do valor dos títulos; *Thriller* registrou a menor mediana (**R$ 225,15**), sem *outliers* nas três categorias.
 <p align="center">
   <img src="boxplot.png" alt="boxplot" width="700">
 </p>
